@@ -1,0 +1,117 @@
+
+html {
+    background: #ffffff;
+    -webkit-font-smoothing: antialiased;
+}
+
+.header {
+    width: 100%;
+    height: 8%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    font-family: sans-serif;
+    color: #4b7ba6;
+    font-size:37px;
+    letter-spacing: -5px;
+    background-color: white;
+    text-align: center;
+}
+
+
+h1 {
+    top: 10%;
+    background-color: white;
+    font-family: sans-serif;
+    color: #4b7ba6;
+    border: 1px solid;
+    border-color: #4b7ba6;
+    position: relative;
+    text-align: left;
+}
+
+body {
+    margin: 50px auto;
+    top: 70px;
+    max-width: 800px;
+    padding: 2em 2em 2em;
+    width: 600px;
+    background-color: #ebeff2;
+    font-family: sans-serif;
+    font-size: 14px;
+    border: 1px dotted;
+    border-color: #4b7ba6;
+    position: relative;
+    height: 0px auto;
+    text-align: center;
+    box-shadow: 10px 10px 0 rgba(220,220,220,0.3);
+}
+
+.linkbar {
+    height: 2.4%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 5%;
+    left: 0;
+    background-color: #88a1b5;
+    font-family: sans-serif;
+    
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.linkbar a {
+    font-family: sans-serif;
+    font-size: 10px;
+    text-align: center auto;
+    color: WHITE;
+}
+
+h2 {
+    padding: 10px;
+    margin: 5px auto;
+    color: #88a1b5;
+    font-family: sans-serif;
+    font-weight: 10;
+    line-height: 0;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: -1px;
+
+}
+
+h3 {
+    color: #222;
+    font-family: sans-serif;
+    font-weight: 10;
+    text-align: center;
+    font-size: 12px;
+
+}
+
+h4 {
+    color:#9CB8CF;
+    font-size: 10px;
+}
+
+img {
+    max-width: 100%;
+    font-family: sans-serif;
+    height: auto;
+}
+
+footer {
+    font-family: sans-serif;
+    font-size: 10px;
+    text-align: center auto;
+    color: white;
+    height: 3%;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #88a1b5;
+    letter-spacing: 2px;
+}
