@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "style.css" ?>
+
+<songlist>
+    
+    <side></side>
+    <h1> euphoria: </h1>
+    <h2> a setlist dedicated to late night drives</h2>
+
+    <song>
+        <title>tonight (i wish i was your boy)</title>
+        <artist>the 1975</artist>
+        <genre>alternative/indie</genre>
+        <release>2020</release>
+    </song>
+
+    <song>
+        <title>ladders</title>
+        <artist>mac miller</artist>
+        <genre>2018</genre>
+        <release>hip hop, rap</release>
+    </song>
+    
+    <song>
+        <title>forrest gump</title>
+        <artist>frank ocean</artist>
+        <genre>neo soul, contemporary r&amp;b, pop</genre>
+        <release>2012</release>
+    </song>
+    
+    <song>
+        <title>bye</title>
+        <artist>teej</artist>
+        <genre>pop</genre>
+        <release>2019</release>
+    </song>
+    
+    <song>
+        <title>no worries</title>
+        <artist>devin kennedy</artist>
+        <genre>pop</genre>
+        <release>2019</release>
+    </song>
+    
+    <song>
+        <title>moon</title>
+        <artist>masakoi ft. nick nery</artist>
+        <genre>r&amp;b, soul</genre>
+        <release>2019</release>
+    </song>
+    
+    <song>
+        <title>white dress</title>
+        <artist>marc wavy</artist>
+        <genre>r&amp;b, soul</genre>
+        <release>2020</release>
+    </song>
+    
+    <song>
+        <title>city girl</title>
+        <artist>jonah hanom</artist>
+        <genre>r&amp;b, soul</genre>
+        <release>2020</release>
+    </song>
+    
+    <song>
+        <title>trophies</title>
+        <artist>sectiontoo ft. willie mason</artist>
+        <genre>r&amp;b, soul</genre>
+        <release>2019</release>
+    </song>
+
+    <song>
+        <title>heart don't stand a chance</title>
+        <artist>anderson .paak</artist>
+        <genre>2016</genre>
+        <release>r&amp;b, soul</release>
+    </song>
+    
+    <h3> windows down. we are content.</h3>
+
+<footer>by thienbn 2020</footer>
+    
+</songlist>

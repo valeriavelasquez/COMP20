@@ -1,0 +1,89 @@
+@charset "utf-8";/* CSS Document */
+
+side {
+    height: 100%;
+    width: 5px;
+    position: fixed;
+    z-index: 1; /* stay on top */
+    top: 0; /* stay at top */
+    left: 7%;
+    background-color: #c5c3d4;
+}
+
+songlist {
+    background-color: #adb1c7;
+}
+
+h1 {
+    display: block;
+    padding-left: 10%;
+    font-size: 55px;
+    text-shadow: -1px 0 #606373, 0 1px #606373, 1px 0 #606373, 0 -1px #606373; /* shadow */
+    letter-spacing: -3px;
+    color: #fffcf2;
+}
+
+h2 {
+    display: block;
+    padding-left: 10%;
+    font-size: 26px;
+    font: Times New Roman;
+    letter-spacing: -1px;
+    color: #606373;
+    padding-bottom: 3%;
+}
+
+h3 {
+    display: block;
+    padding-left: 10%;
+    font-size: 20px;
+    font: Times New Roman;
+    letter-spacing: -1px;
+    color: #606373;
+    padding-top: 1%;
+}
+
+song {
+    display: block;
+    padding-left: 15%;
+    letter-spacing: 2px;
+    font-size: 16px;
+}
+
+title {
+    color: #606373;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+song artist:before {content: "by "; color: #74778a; font-size: 12px;}
+song artist {
+    color: #606373;
+}
+
+song genre:before {content: "genre: "; color: #fff; font-size: 12px;}
+song genre {
+    display: block;
+    color: #74778a;
+}
+
+song release:before {content: "released on: "; color: #fff; font-size: 12px;}
+song release {
+    display: block;
+    color: #74778a;
+    padding-bottom: 2%;
+}
+
+footer {
+    font-family: sans-serif;
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    height: 2%;
+    width: 20%;
+    position: fixed;
+    top: 1%;
+    right: 0;
+    background-color: #c5c3d4;
+    letter-spacing: 1px;
+}
