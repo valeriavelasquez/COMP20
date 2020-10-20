@@ -1,0 +1,19 @@
+header
+{
+    display: block;
+    padding-left: center;
+    font-size: 55px;
+    letter-spacing: -3px;
+    text-shadow: -1px 0 #1b2229, 0 1px #1b2229, 1px 0 #1b2229, 0 -1px #1b2229; /* shadow */
+}
+
+body
+{
+    background: #556c80;
+    color: #ebebeb;
+}
+
+h1
+{
+    display: block;
+}
